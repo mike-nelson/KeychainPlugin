@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-ios-keychain",
+  "version": "3.0.0",
+  "description": "This plugin allows your app access to the iOS KeyChain from Cordova. See: https://developer.apple.com/library/mac/documentation/security/conceptual/keychainServConcepts/iPhoneTasks/iPhoneTasks.html",
+  "cordova": {
+    "id": "cordova-plugin-ios-keychain",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-nelson/KeychainPlugin.git"
+  },
+  "keywords": [
+    "keychain",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.2.0"
+    }
+  ],
+  "author": "Mike Nelson",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mike-nelson/KeychainPlugin/issues"
+  },
+  "homepage": "https://github.com/mike-nelson/KeychainPlugin#readme"
+}
